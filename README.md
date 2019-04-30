@@ -1,2 +1,2 @@
 # telecom
-aplikacija 
+aplikacija za kupovinu mobitela
